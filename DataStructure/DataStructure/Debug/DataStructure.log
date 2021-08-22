@@ -1,7 +1,7 @@
 ﻿  arraygraph.cpp
-C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\.vs\DataStructure\DataStructure\arraygraph.cpp(57,46): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\.vs\DataStructure\DataStructure\arraygraph.cpp(62,38): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\.vs\DataStructure\DataStructure\arraygraph.cpp(91,46): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\.vs\DataStructure\DataStructure\arraygraph.cpp(95,44): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\.vs\DataStructure\DataStructure\arraygraph.cpp(109,42): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-  DataStructure.vcxproj -> C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\.vs\DataStructure\Debug\DataStructure.exe
+C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\DataStructure\DataStructure\arraygraph.cpp(57,46): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\DataStructure\DataStructure\arraygraph.cpp(62,38): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\DataStructure\DataStructure\arraygraph.cpp(91,46): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\DataStructure\DataStructure\arraygraph.cpp(95,44): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\DataStructure\DataStructure\arraygraph.cpp(109,42): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  DataStructure.vcxproj -> C:\Users\jk121\Desktop\Coding\codeing_study_C++\Data_structure\DataStructure\Debug\DataStructure.exe

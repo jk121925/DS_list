@@ -1,4 +1,5 @@
 #pragma once
+#include <vector>
 class GraphVertex
 {
 public:
@@ -16,7 +17,12 @@ class LinkedGraph {
 public:
 	int maxVertexCount;
 	int currentVertexCount;
+	int currentEdgeCount;
 	int graphType;
-	LinkedList** ppAdjEdge;
+	//vector<int**> ppAdjEdge;
 	int* pVertex;
+	LinkedGraph(int maxVertexCount);
+
+
+
 };

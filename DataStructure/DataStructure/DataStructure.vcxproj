@@ -140,9 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="graph.h" />
+    <ClInclude Include="graphlinkedlist.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="arraygraph.cpp" />
+    <ClCompile Include="Linkedgraph.cpp" />
+    <ClCompile Include="sorting.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -128,7 +128,7 @@ void ArrayGraph::displayArrayGraph() {
 	}
 }
 
-
+/*
 int main() {
 	int i = 0;
 	ArrayGraph temp(6,0);
@@ -146,3 +146,4 @@ int main() {
 	temp.displayArrayGraph();
 	
 }
+*/
